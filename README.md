@@ -18,7 +18,7 @@ By default, when running the program, swagger is used, but it can also be used w
 
 ![image](https://github.com/user-attachments/assets/f1ba36ad-5762-45f6-bc4d-3fa99ab938bd)
 
-I will leave the database in case you want to test the application.
+I will leave the database (dataBase.sql) in case you want to test the application.
 
 
 ## [Usage](https://iharsh234.github.io/WebApp/)  
