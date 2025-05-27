@@ -21,21 +21,7 @@ By default, when running the program, swagger is used, but it can also be used w
 I will leave the database in case you want to test the application.
 
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
+## [Usage](https://iharsh234.github.io/WebApp/)  
 
 
 ## Built with 
