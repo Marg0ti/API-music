@@ -1,0 +1,6 @@
+@HernandezMargot_API_M_HostAddress = http://localhost:5285
+
+GET {{HernandezMargot_API_M_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
