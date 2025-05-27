@@ -21,9 +21,6 @@ By default, when running the program, swagger is used, but it can also be used w
 I will leave the database (dataBase.sql) in case you want to test the application.
 
 
-## [Usage](https://iharsh234.github.io/WebApp/)  
-
-
 ## Built with 
 
 - Programming language: C#
